@@ -6,7 +6,7 @@ To do:
 
 Where you wanna have your .yml do this command to get it from this repo:
 
-wget https://github.com/hehedaniel/WP_MariaDB-docker-yml/blob/main/docker-compose.yml
+curl -LO https://raw.githubusercontent.com/hehedaniel/WP_MariaDB-docker-yml/main/docker-compose.yml
 
 Once you have it:
 
